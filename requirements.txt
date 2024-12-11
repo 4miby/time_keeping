@@ -1,0 +1,8 @@
+opencv-python
+face-recognition                                                                
+Pillow
+pymongo
+python-dotenv
+customtkinter
+tkinter
+pydantic
